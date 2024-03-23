@@ -6,16 +6,18 @@ import Header from "@/components/Header";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "AquaTrack",
-  description: "Revolutionize yor Catfish Farming Experience with AquaTrack",
+  title: "Fleckr",
+  description:
+    "Crafting Your Digital Presence: Building Websites That Speak Your Brand's Language",
   openGraph: {
     type: "website",
-    url: "https://aquatrack-landingpage.vercel.app",
-    title: "AquaTrack",
-    description: "Revolutionize yor Catfish Farming Experience with AquaTrack",
+    url: "https://fleckr.vercel.app/",
+    title: "Fleckr",
+    description:
+      "Crafting Your Digital Presence: Building Websites That Speak Your Brand's Language",
     images: [
       {
-        url: "https://res.cloudinary.com/calebcloud/image/upload/v1710679187/seo-card1.png",
+        url: "https://res.cloudinary.com/calebcloud/image/upload/v1711226372/favicon.png",
         type: "image/jpg",
         width: 1200,
         height: 630,
@@ -25,11 +27,12 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "AquaTrack",
-    description: "Revolutionize yor Catfish Farming Experience with AquaTrack",
+    title: "Fleckr",
+    description:
+      "Crafting Your Digital Presence: Building Websites That Speak Your Brand's Language",
     images: [
       {
-        url: "https://res.cloudinary.com/calebcloud/image/upload/v1710679187/seo-card1.png",
+        url: "https://res.cloudinary.com/calebcloud/image/upload/v1711226372/favicon.png",
         type: "image/jpg",
         width: 1200,
         height: 630,
