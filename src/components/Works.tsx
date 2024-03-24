@@ -5,7 +5,7 @@ import Link from "next/link";
 
 const Works = () => {
   return (
-    <section id="works" data-aos="fade-down-right" className="lg:my-40 my-20">
+    <section id="works" data-aos="fade-down-right" className="lg:my-40 mt-40 mb-20">
       <div className="header flex items-center justify-between">
         <h2 className="font-bold lg:text-3xl text-2xl mb-4">Selected Works</h2>
         <p className="text-sm lg:flex hidden">
